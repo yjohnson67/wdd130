@@ -34,7 +34,7 @@ nav a:hover {
     color: #d9c2a3;
 }
 .book{
-    background-color: blue;
+    background-color:rgba(20,30,13, .7);
     color: #d9c2a3;
     text-decoration: none;
 }

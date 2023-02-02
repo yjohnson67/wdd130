@@ -39,7 +39,7 @@ nav a:hover {
     text-decoration: none;
 }
 .join{
-    background-color: blue;
+    background-color:rgba(20,30,13, .7);
     color: #d9c2a3;
     text-decoration: none;
 }
@@ -48,14 +48,14 @@ nav a:hover {
     color: #d9c2a3;
 } 
 .join:hover{
-    background-color: blue;
+    background-color: rgba(20,30,13, .7);
     color: #d9c2a3;
 }
 .msg{
-    background-color: blue;
+    background-color: rgba(20,30,13, .7);
 }
 footer{
-    background-color:blue;
+    background-color:rgba(20,30,13, .7);
     color: #d9c2a3;
 }
 footer a{

@@ -18,12 +18,15 @@ nav a{
 }
 #hero-msg h1{
     text-align: center;
+    font-family: 'Rock Salt', 'Brandly Hand', sans-serif;
+    font-size: 2em; 
     
     
 }
 #hero-msg h4{
     text-align: center;
-    
+    font-family: 'Rock Salt', 'Brandly Hand', sans-serif;
+    font-size: 2em; 
 }
 .button-box{
     text-align: center;
@@ -45,6 +48,8 @@ body{
 }
 h2 {
     margin:0;
+    font-family: 'Rock Salt', 'Brandly Hand', sans-serif;
+    font-size: 2em; 
 }
 header {
     background-color:rgba(20,30,13, .7);

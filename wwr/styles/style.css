@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Rock+Salt&family=Sofia+Sans:ital,wght@1,300&display=swap');
+.home-title {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+    /* color: red;
+    background-color: blue;
+    border: solid 20px black; */
+}
 content{
     max-width: 1600px;
     margin: 0 auto;
@@ -11,8 +19,7 @@ nav a{
 }
 #hero-msg h1{
     text-align: center;
-    font-family: 'Rock Salt', 'Brandly Hand', sans-serif;
-    font-size: 2em; 
+    
     
     
 }
@@ -81,7 +88,7 @@ main section img{
     color: #d9c2a3;
 } 
 .join:hover{
-    background-color: rgba(20,30,13, .7);
+    background-color: rgb(2, 2, 57);
     color: #d9c2a3;
 }
 .msg{

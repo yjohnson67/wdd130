@@ -21,6 +21,10 @@ nav a{
     text-align: center;
     padding: 35px;
 }
+#hero {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+}
 #logo_link {
     padding-top: 5 px;
     justify-self: center;

@@ -119,8 +119,10 @@ main section img {
     width: 100%;
 }
 .mountains {
+    width: 100%;
     grid-column: 2/7;
     grid-row: 5/8;
+    box-shadow: 5px 5px 10px #6f7354;
 
 }
 .rivers-card {
@@ -167,8 +169,6 @@ main section img {
     grid-column: 6/10;
     grid-row: 6/7;
     box-shadow: 5px 5px 10px #6f7364;
-    grid-column: 6/11;
-    grid-row: 6/8;
 }
 .mountains {
     width: 100%;

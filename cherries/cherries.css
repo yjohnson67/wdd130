@@ -1,0 +1,27 @@
+.content1 {
+    /* This is the parent of the activity 1 boxes. */
+  
+  }
+    .red { 
+      width: 100px; 
+      height: 100px; 
+      z-index: 2;
+      align-content: center;
+      font-size: 50px;
+      text-size-adjust: 300;
+    } 
+    .green {
+      width: 50%;
+    }
+    .cherries {
+      width: 50%;
+      background-color: gray;
+
+    }
+      
+    
+    header {
+      display: flex;
+      
+      
+    }

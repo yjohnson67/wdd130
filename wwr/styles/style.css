@@ -222,25 +222,26 @@ footer p a:hover {
     text-decoration: underline;
 }
 .waters-card{
-    margin-left: 20px;
-    grid-column: 8/11;
+    margin-left: 40px;
+    grid-column: 1/4;
     grid-row: 2/5;
     width: 100%;
 }
 .solo{
-    margin-left: 20px;
-    grid-column: 1/5;
-    grid-row: 2/4;
+    margin-left: 70px;
+    grid-column: 7/10;
+    grid-row: 4/8;
     width: 100%;
 }
 .rafting-canyons{
     margin-left: 40px;
-    grid-column: 1/5;
+    grid-column: 1/4;
     grid-row: 5/7;
     width: 100%;
 }
 .rapids-message{
-    grid-column: 5/8;
+    line-height: 1.5em;
+    grid-column: 5/7;
     grid-row: 1/11;
     
 }

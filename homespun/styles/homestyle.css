@@ -160,7 +160,7 @@ body {
   background-color: var(--nav-background-color);
   color: var(--nav-link-color);
   padding: 10px;
-  font-size: 1.1em;
+  font-size: 1em;
   font-family: Montserrat, sans-serif;
   border: none;
   min-width: 120px;
@@ -180,7 +180,7 @@ body {
   display: none;
   position: absolute;
   top: 100%;
-  left: 0;
+  width: 100%;
   background-color: #396E94;
   color: var(--nav-hover-link-color);
   background-color: #D4AC0D;

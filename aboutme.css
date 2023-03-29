@@ -1,0 +1,21 @@
+.container {
+    overflow: auto;
+  }
+  
+  .image {
+    float: right;
+    margin: 50px -50px 20px 20px;
+    width: 500px;
+    height: auto;
+  }
+  
+  .text {
+    padding: 0 100px;
+    margin-top: 40px; /* add some space between the image and text */
+  }
+  body{
+    margin: 200px; /* decrease the margin to make more room for content */
+  }
+  p{
+    font-size: 20px;
+  }

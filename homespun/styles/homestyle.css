@@ -289,11 +289,11 @@ body {
 }
 
 .card:nth-child(3) {
-  transform: translate(-140%, -130%) rotate(30deg) translate(0, -610px) rotate(-30deg);
+  transform: translate(-50%, -140%) rotate(30deg) translate(0, -610px) rotate(-30deg);
 }
 
 .card:nth-child(5) {
-  transform: translate(50%, -180%) rotate(90deg) translate(0, -90px) rotate(-90deg);
+  transform: translate(50%, -180%) rotate(90deg) translate(0, -250px) rotate(-90deg);
 }
 
 .card:nth-child(1) {
